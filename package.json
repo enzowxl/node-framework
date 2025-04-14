@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enzowxl/node-framework"
+    "url": "git+https://github.com/enzowxl/node-framework.git"
   },
   "keywords": [
     "node.js",
