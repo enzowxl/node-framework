@@ -1,0 +1,24 @@
+{
+  "name": "@enzowxl/node-framework",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "tsx --watch src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "framework"
+  ],
+  "author": "enzowxl",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.0",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.3"
+  }
+}
