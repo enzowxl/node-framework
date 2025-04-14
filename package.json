@@ -8,6 +8,10 @@
     "dev": "tsx --watch src/index.ts",
     "build": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enzowxl/node-framework"
+  },
   "keywords": [
     "node.js",
     "node",
